@@ -19,9 +19,9 @@
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "**/!(*.flow|test.js|index.js*)"
       ]
     }
   ],
-  "version": "0.37.0"
+  "version": "0.50.0"
 }
